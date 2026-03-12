@@ -1,95 +1,80 @@
-Admin Dashboard – The Odin Project
+# Admin Dashboard – The Odin Project
 
-This project is a dashboard layout built as part of The Odin Project Foundations curriculum.
+This project is a dashboard interface built as part of **The Odin Project** Foundations curriculum.
 
-It focuses on practicing advanced layout techniques using CSS Grid, organizing complex UI sections, and structuring multi-panel interfaces commonly used in modern web applications.
+It focuses on practicing advanced HTML and CSS layout techniques including CSS Grid, card-based UI components, typography, spacing, and structuring multi-panel web application layouts.
 
-📚 About The Project
+---
+
+## 📚 About The Project
 
 This dashboard was built to replicate a reference design provided in The Odin Project curriculum.
 
 The main goal was to strengthen understanding of:
 
-Semantic HTML structure
+- Semantic HTML structure
+- CSS Grid layout
+- Structuring complex page layouts
+- Alignment and spacing using CSS Grid
+- Typography and font integration (Google Fonts)
+- Color themes and visual hierarchy
+- Basic Git workflow (commit & push)
 
-CSS Grid layout
+---
 
-Multi-column page architecture
+## 🛠️ Built With
 
-Card-based UI components
+- HTML5
+- CSS3 (Grid Layout)
+- Google Fonts (Roboto)
+- Git & GitHub
 
-Typography and font integration (Google Fonts)
+---
 
-Consistent spacing and visual hierarchy
+## 🎯 What I Practiced
 
-Basic Git workflow (commit & push)
+- Structuring multi-panel dashboard layouts
+- Using CSS Grid to control page architecture
+- Creating reusable card components
+- Aligning icons and content inside cards
+- Managing spacing and layout consistency
+- Implementing hover and focus interactions
+- Organizing CSS for readability
+- Making clean Git commits
 
-🛠️ Built With
+---
 
-HTML5
-
-CSS3 (CSS Grid)
-
-Google Fonts (Roboto)
-
-Git & GitHub
-
-🎯 What I Practiced
-
-Building complex grid layouts
-
-Structuring a multi-panel dashboard interface
-
-Organizing content into reusable card components
-
-Aligning icons and UI elements with CSS Grid
-
-Managing spacing and layout consistency
-
-Creating interactive UI elements (hover states)
-
-Implementing a dark-themed color palette
-
-Organizing CSS for readability and maintainability
-
-Using Git for version control
-
-🎨 Personal Customizations
+## 🎨 Personal Customizations
 
 In addition to the base exercise, I added:
 
-A custom dark theme inspired by phoenix colors (red, orange, and black)
+- Custom **dark theme** inspired by phoenix colors (red, orange, and black)
+- Styled search bar with hover and focus highlights
+- Card hover effects and subtle UI transitions
+- Improved spacing and typography consistency
+- Minor layout refinements for a more polished dashboard appearance
 
-Improved typography using Roboto
+---
 
-Card hover effects and subtle UI transitions
+## 📈 Future Improvements
 
-Styled search bar with hover and focus highlighting
+- Improve responsiveness for smaller screens
+- Refactor CSS to remove redundancy
+- Add additional animations and micro-interactions
+- Implement JavaScript features for dynamic functionality
+- Deploy using GitHub Pages
 
-Improved spacing and visual hierarchy
+---
 
-Polished UI elements for a more modern dashboard feel
-
-📈 Future Improvements
-
-Improve responsiveness for tablet and mobile layouts
-
-Refactor CSS to simplify and modularize styling
-
-Add animations and micro-interactions
-
-Implement real data and interactive components with JavaScript
-
-Deploy the project using GitHub Pages
-
-📖 About The Odin Project
+## 📖 About The Odin Project
 
 The Odin Project is a free open-source curriculum for learning web development:
 https://www.theodinproject.com/
 
-👤 Author
+---
+
+## 👤 Author
 
 Built by Soren Javedan
 
-GitHub:
-https://github.com/JavedanCode
+GitHub: https://github.com/JavedanCode
